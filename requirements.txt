@@ -1,5 +1,0 @@
-streamlit>=1.40
-requests
-yfinance
-pillow
-streamlit-js-eval
